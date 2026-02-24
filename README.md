@@ -7,7 +7,7 @@ I am currently in my final semester at the Federal Institute of Mato Grosso do S
 ---
 
 ### 🛠️ Professional Arsenal
-* **Programming:** Python (Advanced Automation & SecDevOps), C (Low-level Logic), Shell Scripting.
+* **Programming:** Python , C basics.
 * **Security & Networks:** Cisco Cybersecurity Analyst Career Path (In Progress), Nmap automation, Scapy, Socket programming, and Digital Forensics.
 * **Operating Systems:** Power user of **Linux (Fedora/Arch)** and Windows Server.
 * **Logic:** Multi-time medalist at **OBMEP** (Brazilian Mathematics Olympiad for Public Schools).
