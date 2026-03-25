@@ -14,7 +14,7 @@ I am currently in my final semester at the Federal Institute of Mato Grosso do S
 
 ### 🎓 Current Certifications & Education
 * **IFMS:** Technical Degree in IT (Conclusion: 2026.1).
-* **Harvard University:** CS50x - Introduction to Computer Science (In progress).
+* **Google CyberSec certified:** Introduction to InfoSec and CyberSec (In progress).
 * **Cisco Networking Academy:** Introduction to Networks & Cybersecurity Essentials.
 
 ### 🚀 Featured Projects
